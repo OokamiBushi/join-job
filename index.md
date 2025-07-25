@@ -4,4 +4,7 @@
 
 Вторая страница - [тык](./second-page.md)
 
+И тут какой-то призыв к действию
+[подпишись](фысмфывмыфв) 
+
 [Мой GiHub](https://github.com/OokamiBushi/join-job)
